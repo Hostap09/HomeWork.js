@@ -43,7 +43,7 @@
 // console.log(fullName);
 
 // // Task 8
-// const username = 'Олег';
+// const username = 'Остап';
 // const payment = 400;
-// const message = `Дякуємо, ${username}! До сплати ${payment} гривень`;
+// const message = `Дякуємо, ${username}! Потрібно сплатити ${payment} гривень`;
 // alert(message);

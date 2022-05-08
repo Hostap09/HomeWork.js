@@ -56,18 +56,17 @@
 // const S = haight * width;
 // alert(S)
 
-// // Task 7
-
-// const haight = 10;
-// let dc = 4;
-// const V = Math.PI * (dc / 2) ** 2;
+// Task 7
+// const height = 10;
+// const dC = 4;
+// const V = Math.PI * (dC / 2) ** 2 * height;
 // console.log(V);
 
 // // Task 8
 
 // const n = 3;
 // const m = 4;
-// const k = Math.sqrt(Math.pow(n, 2) = Math.pow(m, 2));
+// const k = Math.sqrt(Math.pow(n, 2) + Math.pow(m, 2));
 // alert(k);
 
 

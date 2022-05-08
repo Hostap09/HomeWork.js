@@ -27,5 +27,5 @@
 // let b4 = null;
 
 // const a5 = undefined;
-// let b5 = {};
+// let b5 = {4};
 
